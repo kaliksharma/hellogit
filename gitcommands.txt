@@ -1,0 +1,7 @@
+Some of the basic commands used in git are as follows:-
+git init:- It creates a new Respository. It converts the existing directory into Git Respority.
+git add:- It adds all the modified and new files in the current directory and all subdirectories in the staging area.
+git commit:- It records changes to the Respository
+git remote:- It is used to add a new remote.
+git push:- It will push the code to the master branch of the remote directory defined with the origin. 
+
